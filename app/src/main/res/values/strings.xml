@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="entre_com_um_n_mero">Entre com um número</string>
+    <string name="entre_com_um_numero">Entre com um número</string>
+    <string name="somar">Somar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="dividir">Dividir</string>
+</resources>
